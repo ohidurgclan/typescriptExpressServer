@@ -4,3 +4,7 @@
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+#build
+dist
+.vercel
+.env*.local
